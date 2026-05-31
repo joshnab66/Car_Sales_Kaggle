@@ -86,10 +86,10 @@ This project focuses on visualizing car sales data using Microsoft Excel. I work
 
 | Chart | Preview |
 |-------|---------|
-| Clustered Column Chart | `screenshots/column_chart.png` |
-| Area Chart | `screenshots/area_chart.png` |
-| Bar Chart | `screenshots/bar_chart.png` |
-| Line Chart | `screenshots/line_chart.png` |
+| Clustered Column Chart | `column_chart.png` |
+| Area Chart | `area_chart.png` |
+| Bar Chart | `bar_chart.png` |
+| Line Chart | `line_chart.png` |
 
 ---
 
